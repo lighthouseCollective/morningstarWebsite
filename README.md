@@ -73,4 +73,5 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 * downloaded assets
 * picked bootstrap
 * configured CNAME
+* create Google Analytics property
 * **MILESTONE: *Initial Commit***
