@@ -59,16 +59,18 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 - [x] bootstrap
 - [x] new domain
 - [x] configure DNS
-- [ ] SSL certificate
+- [x] SSL certificate
 - [ ] link contact form to backend
 - [ ] copy & content
 - [x] create GA property
-- [ ] link Google Analytics
+- [x] link Google Analytics
 - [ ] **PRE-FLIGHT CHECK** _02.11.21_
 - [ ] **Initial Launch:** _02.12.21_
 - [ ] set up google recaptcha
 
 ### Updates
+#### v0.0.2
+* bootstrapped
 #### v0.0.1
 * downloaded assets
 * picked bootstrap
