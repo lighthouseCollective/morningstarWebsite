@@ -64,13 +64,17 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 - [ ] copy & content
 - [x] create GA property
 - [x] link Google Analytics
-- [ ] **PRE-FLIGHT CHECK** _02.11.21_
-- [ ] **Initial Launch:** _02.12.21_
+- [ ] **PRE-FLIGHT CHECK** _03.17.21_
+- [ ] **Initial Launch:** _03.18.21_
 - [ ] set up google recaptcha
 
 ### Updates
 #### v0.0.2
-* bootstrapped
+* started copy & content
+* added meta
+* linked GA
+* updated progress 
+
 #### v0.0.1
 * downloaded assets
 * picked bootstrap
